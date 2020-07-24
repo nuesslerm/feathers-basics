@@ -1,0 +1,12 @@
+{
+  "name": "feathers-basics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@feathersjs/feathers": "^4.5.5"
+  },
+  "devDependencies": {
+    "faker": "^4.1.0"
+  }
+}
