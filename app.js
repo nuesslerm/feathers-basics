@@ -104,7 +104,7 @@ const main = async (number) => {
   // console.log('All messages', messages);
 };
 
-main(100);
+// main(3);
 
 // For good measure let's create a message
 // So our API doesn't look so empty
